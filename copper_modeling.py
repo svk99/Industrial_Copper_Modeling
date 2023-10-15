@@ -73,7 +73,7 @@ with t1:
 
     item_type_values, status_values = set_values(item_type, status)
     item_type_Others = item_type_values['item type_Others']
-    item_type_W = item_type_values['item type_Others']
+    item_type_W = item_type_values['item type_W']
     item_type_WI = item_type_values['item type_WI']
     item_type_S = item_type_values['item type_S']
     item_type_PL = item_type_values['item type_PL']
@@ -125,7 +125,7 @@ with t2:
 
     item_type_values_class = set_values_classifier(item_type)
     item_type_Others = item_type_values_class['item type_Others']
-    item_type_W = item_type_values_class['item type_Others']
+    item_type_W = item_type_values_class['item type_W']
     item_type_WI = item_type_values_class['item type_WI']
     item_type_S = item_type_values_class['item type_S']
     item_type_PL = item_type_values_class['item type_PL']
